@@ -1,4 +1,4 @@
-# Challenge Balanz
+# React Project - Crypto Watcher
 
 ![img](./src/assets/challenge.png)
 
